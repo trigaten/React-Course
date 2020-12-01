@@ -30,3 +30,12 @@
     margin: 0px;
     color: black;
 }
+
+.body{
+    padding: 50px opx op opx;
+    z-index: 0;
+}
+
+.navbar-dark {
+    background-color: purple;
+}
